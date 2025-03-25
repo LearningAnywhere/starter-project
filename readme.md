@@ -1,3 +1,3 @@
-# Pursuit Crawler
+# Starter project
 
-The magic behind the Pursuit project scenes
+A basic started project to launch a project with Typescript, Prettier, and ESLint.
