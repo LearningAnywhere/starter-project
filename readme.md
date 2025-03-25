@@ -1,3 +1,3 @@
 # Starter project
 
-A basic started project to launch a project with Typescript, Prettier, and ESLint.
+A basic starter project to get going with Typescript, Prettier, and ESLint.
